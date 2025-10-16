@@ -1,0 +1,12 @@
+Herramientas -> red > 
+cuando cree el adaptador de red solo anfitrión es para crear una red interna con una ip estática. no acceder a internet al ser interna.
+La nat te permite acceder a internet.
+
+creamos un adaptador de red en "Crear" en la pestaña solo anfitrión y se desactiva el dhcp 
+En adaptador ponemos configurar manualmente
+creamos un adaptador nat con habilitar dhcp para salir a internet
+
+Creas una maquina y en confiuracion (boton derecho) > red > adaptador 1 > nat
+adaptador 2 > conectado a adaptador solo anfitrión 
+
+

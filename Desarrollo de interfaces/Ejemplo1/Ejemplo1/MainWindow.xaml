@@ -1,0 +1,29 @@
+﻿<Window x:Class="Ejemplo1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ejemplo1"
+        mc:Ignorable="d"
+        Title="Formulario1" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="48*"/>
+            <RowDefinition Height="97*"/>
+        </Grid.RowDefinitions>
+        <Label Content="Nombre" HorizontalAlignment="Left" Margin="37,52,0,0" VerticalAlignment="Top" Width="140"/>
+        <Label Content="Apellidos" HorizontalAlignment="Left" Margin="37,83,0,0" VerticalAlignment="Top" Width="140"/>
+        <Label Content="Correo electrónico" HorizontalAlignment="Left" Margin="37,110,0,0" VerticalAlignment="Top" Width="140"/>
+        <Label Content="Fecha de nacimiento" HorizontalAlignment="Left" Margin="37,140,0,0" VerticalAlignment="Top" Width="140" Grid.RowSpan="2"/>
+        <Label Content="Ciudad" HorizontalAlignment="Left" Margin="37,28,0,0" VerticalAlignment="Top" Width="140" Grid.Row="1"/>
+        <Label Content="Instituto" HorizontalAlignment="Left" Margin="37,56,0,0" VerticalAlignment="Top" Width="140" Grid.Row="1"/>
+        <TextBox HorizontalAlignment="Left" Margin="37,21,0,0" TextWrapping="Wrap" Text="FORMULARIO" VerticalAlignment="Top" Width="120" TextChanged="TextBox_TextChanged" FontFamily="Arial Black"/>
+        <Button Content="Enviar" HorizontalAlignment="Left" Margin="457,120,0,0" VerticalAlignment="Top" Height="30" Width="83" Background="#FF277BFF" Foreground="White" Click="Button_Click" Grid.Row="1"/>
+        <TextBox HorizontalAlignment="Left" Margin="182,56,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="358"/>
+        <TextBox HorizontalAlignment="Left" Margin="182,87,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="358"/>
+        <TextBox HorizontalAlignment="Left" Margin="182,118,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="358"/>
+        <TextBox HorizontalAlignment="Left" Margin="182,4,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="358" Grid.Row="1"/>
+        <TextBox HorizontalAlignment="Left" Margin="182,32,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="358" Grid.Row="1"/>
+        <TextBox HorizontalAlignment="Left" Margin="182,64,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="358" Grid.Row="1"/>
+    </Grid>
+</Window>

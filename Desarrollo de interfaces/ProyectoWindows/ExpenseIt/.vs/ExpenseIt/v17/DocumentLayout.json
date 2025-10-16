@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\annaa\\OneDrive\\Escritorio\\DAM2\\Desarrollo de interfaces\\ProyectoWindows\\ExpenseIt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA160E84-5C52-4A27-B64F-1DD7021310F8}|ExpenseIt.csproj|c:\\users\\annaa\\onedrive\\escritorio\\dam2\\desarrollo de interfaces\\proyectowindows\\expenseit\\expensereportpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DA160E84-5C52-4A27-B64F-1DD7021310F8}|ExpenseIt.csproj|solutionrelative:expensereportpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA160E84-5C52-4A27-B64F-1DD7021310F8}|ExpenseIt.csproj|c:\\users\\annaa\\onedrive\\escritorio\\dam2\\desarrollo de interfaces\\proyectowindows\\expenseit\\expenseithome.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DA160E84-5C52-4A27-B64F-1DD7021310F8}|ExpenseIt.csproj|solutionrelative:expenseithome.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA160E84-5C52-4A27-B64F-1DD7021310F8}|ExpenseIt.csproj|c:\\users\\annaa\\onedrive\\escritorio\\dam2\\desarrollo de interfaces\\proyectowindows\\expenseit\\expenseithome.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA160E84-5C52-4A27-B64F-1DD7021310F8}|ExpenseIt.csproj|solutionrelative:expenseithome.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA160E84-5C52-4A27-B64F-1DD7021310F8}|ExpenseIt.csproj|c:\\users\\annaa\\onedrive\\escritorio\\dam2\\desarrollo de interfaces\\proyectowindows\\expenseit\\expensereportpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA160E84-5C52-4A27-B64F-1DD7021310F8}|ExpenseIt.csproj|solutionrelative:expensereportpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA160E84-5C52-4A27-B64F-1DD7021310F8}|ExpenseIt.csproj|c:\\users\\annaa\\onedrive\\escritorio\\dam2\\desarrollo de interfaces\\proyectowindows\\expenseit\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DA160E84-5C52-4A27-B64F-1DD7021310F8}|ExpenseIt.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA160E84-5C52-4A27-B64F-1DD7021310F8}|ExpenseIt.csproj|c:\\users\\annaa\\onedrive\\escritorio\\dam2\\desarrollo de interfaces\\proyectowindows\\expenseit\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DA160E84-5C52-4A27-B64F-1DD7021310F8}|ExpenseIt.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA160E84-5C52-4A27-B64F-1DD7021310F8}|ExpenseIt.csproj|c:\\users\\annaa\\onedrive\\escritorio\\dam2\\desarrollo de interfaces\\proyectowindows\\expenseit\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA160E84-5C52-4A27-B64F-1DD7021310F8}|ExpenseIt.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExpenseReportPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\annaa\\OneDrive\\Escritorio\\DAM2\\Desarrollo de interfaces\\ProyectoWindows\\ExpenseIt\\ExpenseReportPage.xaml.cs",
+              "RelativeDocumentMoniker": "ExpenseReportPage.xaml.cs",
+              "ToolTip": "C:\\Users\\annaa\\OneDrive\\Escritorio\\DAM2\\Desarrollo de interfaces\\ProyectoWindows\\ExpenseIt\\ExpenseReportPage.xaml.cs",
+              "RelativeToolTip": "ExpenseReportPage.xaml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwCEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T18:05:04.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExpenseItHome.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\annaa\\OneDrive\\Escritorio\\DAM2\\Desarrollo de interfaces\\ProyectoWindows\\ExpenseIt\\ExpenseItHome.xaml.cs",
+              "RelativeDocumentMoniker": "ExpenseItHome.xaml.cs",
+              "ToolTip": "C:\\Users\\annaa\\OneDrive\\Escritorio\\DAM2\\Desarrollo de interfaces\\ProyectoWindows\\ExpenseIt\\ExpenseItHome.xaml.cs",
+              "RelativeToolTip": "ExpenseItHome.xaml.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwBgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T18:05:00.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExpenseReportPage.xaml",
+              "DocumentMoniker": "C:\\Users\\annaa\\OneDrive\\Escritorio\\DAM2\\Desarrollo de interfaces\\ProyectoWindows\\ExpenseIt\\ExpenseReportPage.xaml",
+              "RelativeDocumentMoniker": "ExpenseReportPage.xaml",
+              "ToolTip": "C:\\Users\\annaa\\OneDrive\\Escritorio\\DAM2\\Desarrollo de interfaces\\ProyectoWindows\\ExpenseIt\\ExpenseReportPage.xaml",
+              "RelativeToolTip": "ExpenseReportPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-08T18:03:24.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExpenseItHome.xaml",
+              "DocumentMoniker": "C:\\Users\\annaa\\OneDrive\\Escritorio\\DAM2\\Desarrollo de interfaces\\ProyectoWindows\\ExpenseIt\\ExpenseItHome.xaml",
+              "RelativeDocumentMoniker": "ExpenseItHome.xaml",
+              "ToolTip": "C:\\Users\\annaa\\OneDrive\\Escritorio\\DAM2\\Desarrollo de interfaces\\ProyectoWindows\\ExpenseIt\\ExpenseItHome.xaml",
+              "RelativeToolTip": "ExpenseItHome.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-08T17:57:14.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\annaa\\OneDrive\\Escritorio\\DAM2\\Desarrollo de interfaces\\ProyectoWindows\\ExpenseIt\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\annaa\\OneDrive\\Escritorio\\DAM2\\Desarrollo de interfaces\\ProyectoWindows\\ExpenseIt\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-08T17:47:50.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\annaa\\OneDrive\\Escritorio\\DAM2\\Desarrollo de interfaces\\ProyectoWindows\\ExpenseIt\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\annaa\\OneDrive\\Escritorio\\DAM2\\Desarrollo de interfaces\\ProyectoWindows\\ExpenseIt\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-08T17:47:35.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\annaa\\OneDrive\\Escritorio\\DAM2\\Desarrollo de interfaces\\ProyectoWindows\\ExpenseIt\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\annaa\\OneDrive\\Escritorio\\DAM2\\Desarrollo de interfaces\\ProyectoWindows\\ExpenseIt\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T17:47:32.847Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
