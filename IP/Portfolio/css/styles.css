@@ -215,6 +215,13 @@ a[aria-disabled="true"]{opacity:0.6;pointer-events:none}
 
 .site-footer{padding:32px 0;text-align:center;color:var(--muted)}
 
+/* QR section */
+.qr-section{padding:36px 0;background:linear-gradient(180deg,rgba(255,255,255,0.98),#fbfdff)}
+.qr-wrap{text-align:center;padding:18px}
+.qr-image{width:160px;height:160px;object-fit:contain;border-radius:12px;box-shadow:0 12px 30px rgba(20,30,80,0.06)}
+.qr-note{color:var(--muted);margin-top:12px}
+
+
 /* Responsive */
 @media(max-width:1000px){
   .hero-grid{grid-template-columns:1fr;}
