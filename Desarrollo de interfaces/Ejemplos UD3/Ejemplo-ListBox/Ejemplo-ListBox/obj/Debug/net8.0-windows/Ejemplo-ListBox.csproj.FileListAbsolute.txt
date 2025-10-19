@@ -1,0 +1,41 @@
+C:\Users\Usuario\source\repos\Ejemplo-ListBox\Ejemplo-ListBox\bin\Debug\net8.0-windows\Ejemplo-ListBox.exe
+C:\Users\Usuario\source\repos\Ejemplo-ListBox\Ejemplo-ListBox\bin\Debug\net8.0-windows\Ejemplo-ListBox.deps.json
+C:\Users\Usuario\source\repos\Ejemplo-ListBox\Ejemplo-ListBox\bin\Debug\net8.0-windows\Ejemplo-ListBox.runtimeconfig.json
+C:\Users\Usuario\source\repos\Ejemplo-ListBox\Ejemplo-ListBox\bin\Debug\net8.0-windows\Ejemplo-ListBox.dll
+C:\Users\Usuario\source\repos\Ejemplo-ListBox\Ejemplo-ListBox\bin\Debug\net8.0-windows\Ejemplo-ListBox.pdb
+C:\Users\Usuario\source\repos\Ejemplo-ListBox\Ejemplo-ListBox\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Usuario\source\repos\Ejemplo-ListBox\Ejemplo-ListBox\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Usuario\source\repos\Ejemplo-ListBox\Ejemplo-ListBox\obj\Debug\net8.0-windows\Ejemplo-ListBox_MarkupCompile.cache
+C:\Users\Usuario\source\repos\Ejemplo-ListBox\Ejemplo-ListBox\obj\Debug\net8.0-windows\Ejemplo-ListBox_MarkupCompile.lref
+C:\Users\Usuario\source\repos\Ejemplo-ListBox\Ejemplo-ListBox\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Usuario\source\repos\Ejemplo-ListBox\Ejemplo-ListBox\obj\Debug\net8.0-windows\Ejemplo-ListBox.g.resources
+C:\Users\Usuario\source\repos\Ejemplo-ListBox\Ejemplo-ListBox\obj\Debug\net8.0-windows\Ejemplo-ListBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Ejemplo-ListBox\Ejemplo-ListBox\obj\Debug\net8.0-windows\Ejemplo-ListBox.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Ejemplo-ListBox\Ejemplo-ListBox\obj\Debug\net8.0-windows\Ejemplo-ListBox.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Ejemplo-ListBox\Ejemplo-ListBox\obj\Debug\net8.0-windows\Ejemplo-ListBox.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Ejemplo-ListBox\Ejemplo-ListBox\obj\Debug\net8.0-windows\Ejemplo-ListBox.dll
+C:\Users\Usuario\source\repos\Ejemplo-ListBox\Ejemplo-ListBox\obj\Debug\net8.0-windows\refint\Ejemplo-ListBox.dll
+C:\Users\Usuario\source\repos\Ejemplo-ListBox\Ejemplo-ListBox\obj\Debug\net8.0-windows\Ejemplo-ListBox.pdb
+C:\Users\Usuario\source\repos\Ejemplo-ListBox\Ejemplo-ListBox\obj\Debug\net8.0-windows\Ejemplo-ListBox.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\Ejemplo-ListBox\Ejemplo-ListBox\obj\Debug\net8.0-windows\ref\Ejemplo-ListBox.dll
+C:\Users\annaa\OneDrive\Escritorio\DAM2\Desarrollo de interfaces\Ejemplos\Ejemplo-ListBox\Ejemplo-ListBox\bin\Debug\net8.0-windows\Ejemplo-ListBox.exe
+C:\Users\annaa\OneDrive\Escritorio\DAM2\Desarrollo de interfaces\Ejemplos\Ejemplo-ListBox\Ejemplo-ListBox\bin\Debug\net8.0-windows\Ejemplo-ListBox.deps.json
+C:\Users\annaa\OneDrive\Escritorio\DAM2\Desarrollo de interfaces\Ejemplos\Ejemplo-ListBox\Ejemplo-ListBox\bin\Debug\net8.0-windows\Ejemplo-ListBox.runtimeconfig.json
+C:\Users\annaa\OneDrive\Escritorio\DAM2\Desarrollo de interfaces\Ejemplos\Ejemplo-ListBox\Ejemplo-ListBox\bin\Debug\net8.0-windows\Ejemplo-ListBox.dll
+C:\Users\annaa\OneDrive\Escritorio\DAM2\Desarrollo de interfaces\Ejemplos\Ejemplo-ListBox\Ejemplo-ListBox\bin\Debug\net8.0-windows\Ejemplo-ListBox.pdb
+C:\Users\annaa\OneDrive\Escritorio\DAM2\Desarrollo de interfaces\Ejemplos\Ejemplo-ListBox\Ejemplo-ListBox\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\annaa\OneDrive\Escritorio\DAM2\Desarrollo de interfaces\Ejemplos\Ejemplo-ListBox\Ejemplo-ListBox\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\annaa\OneDrive\Escritorio\DAM2\Desarrollo de interfaces\Ejemplos\Ejemplo-ListBox\Ejemplo-ListBox\obj\Debug\net8.0-windows\Ejemplo-ListBox_MarkupCompile.cache
+C:\Users\annaa\OneDrive\Escritorio\DAM2\Desarrollo de interfaces\Ejemplos\Ejemplo-ListBox\Ejemplo-ListBox\obj\Debug\net8.0-windows\Ejemplo-ListBox_MarkupCompile.lref
+C:\Users\annaa\OneDrive\Escritorio\DAM2\Desarrollo de interfaces\Ejemplos\Ejemplo-ListBox\Ejemplo-ListBox\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\annaa\OneDrive\Escritorio\DAM2\Desarrollo de interfaces\Ejemplos\Ejemplo-ListBox\Ejemplo-ListBox\obj\Debug\net8.0-windows\Ejemplo-ListBox.g.resources
+C:\Users\annaa\OneDrive\Escritorio\DAM2\Desarrollo de interfaces\Ejemplos\Ejemplo-ListBox\Ejemplo-ListBox\obj\Debug\net8.0-windows\Ejemplo-ListBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annaa\OneDrive\Escritorio\DAM2\Desarrollo de interfaces\Ejemplos\Ejemplo-ListBox\Ejemplo-ListBox\obj\Debug\net8.0-windows\Ejemplo-ListBox.AssemblyInfoInputs.cache
+C:\Users\annaa\OneDrive\Escritorio\DAM2\Desarrollo de interfaces\Ejemplos\Ejemplo-ListBox\Ejemplo-ListBox\obj\Debug\net8.0-windows\Ejemplo-ListBox.AssemblyInfo.cs
+C:\Users\annaa\OneDrive\Escritorio\DAM2\Desarrollo de interfaces\Ejemplos\Ejemplo-ListBox\Ejemplo-ListBox\obj\Debug\net8.0-windows\Ejemplo-ListBox.csproj.CoreCompileInputs.cache
+C:\Users\annaa\OneDrive\Escritorio\DAM2\Desarrollo de interfaces\Ejemplos\Ejemplo-ListBox\Ejemplo-ListBox\obj\Debug\net8.0-windows\Ejemplo-ListBox.sourcelink.json
+C:\Users\annaa\OneDrive\Escritorio\DAM2\Desarrollo de interfaces\Ejemplos\Ejemplo-ListBox\Ejemplo-ListBox\obj\Debug\net8.0-windows\Ejemplo-ListBox.dll
+C:\Users\annaa\OneDrive\Escritorio\DAM2\Desarrollo de interfaces\Ejemplos\Ejemplo-ListBox\Ejemplo-ListBox\obj\Debug\net8.0-windows\refint\Ejemplo-ListBox.dll
+C:\Users\annaa\OneDrive\Escritorio\DAM2\Desarrollo de interfaces\Ejemplos\Ejemplo-ListBox\Ejemplo-ListBox\obj\Debug\net8.0-windows\Ejemplo-ListBox.pdb
+C:\Users\annaa\OneDrive\Escritorio\DAM2\Desarrollo de interfaces\Ejemplos\Ejemplo-ListBox\Ejemplo-ListBox\obj\Debug\net8.0-windows\Ejemplo-ListBox.genruntimeconfig.cache
+C:\Users\annaa\OneDrive\Escritorio\DAM2\Desarrollo de interfaces\Ejemplos\Ejemplo-ListBox\Ejemplo-ListBox\obj\Debug\net8.0-windows\ref\Ejemplo-ListBox.dll

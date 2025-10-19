@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Arenas_Anna_ GestionTareas03.01/1.0.0": {
+        "runtime": {
+          "Arenas_Anna_ GestionTareas03.01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Arenas_Anna_ GestionTareas03.01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

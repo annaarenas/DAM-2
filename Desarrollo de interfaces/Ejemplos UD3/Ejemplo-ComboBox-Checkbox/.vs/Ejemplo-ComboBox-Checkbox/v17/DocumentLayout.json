@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\annaa\\OneDrive\\Escritorio\\DAM2\\Desarrollo de interfaces\\Ejemplos UD3\\Ejemplo-ComboBox-Checkbox\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D461243-CC80-4C03-BB4B-50414D84E22E}|Ejemplo-ComboBox-Checkbox\\Ejemplo-ComboBox-Checkbox.csproj|c:\\users\\annaa\\onedrive\\escritorio\\dam2\\desarrollo de interfaces\\ejemplos ud3\\ejemplo-combobox-checkbox\\ejemplo-combobox-checkbox\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6D461243-CC80-4C03-BB4B-50414D84E22E}|Ejemplo-ComboBox-Checkbox\\Ejemplo-ComboBox-Checkbox.csproj|solutionrelative:ejemplo-combobox-checkbox\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D461243-CC80-4C03-BB4B-50414D84E22E}|Ejemplo-ComboBox-Checkbox\\Ejemplo-ComboBox-Checkbox.csproj|c:\\users\\annaa\\onedrive\\escritorio\\dam2\\desarrollo de interfaces\\ejemplos ud3\\ejemplo-combobox-checkbox\\ejemplo-combobox-checkbox\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D461243-CC80-4C03-BB4B-50414D84E22E}|Ejemplo-ComboBox-Checkbox\\Ejemplo-ComboBox-Checkbox.csproj|solutionrelative:ejemplo-combobox-checkbox\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\annaa\\OneDrive\\Escritorio\\DAM2\\Desarrollo de interfaces\\Ejemplos UD3\\Ejemplo-ComboBox-Checkbox\\Ejemplo-ComboBox-Checkbox\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Ejemplo-ComboBox-Checkbox\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\annaa\\OneDrive\\Escritorio\\DAM2\\Desarrollo de interfaces\\Ejemplos UD3\\Ejemplo-ComboBox-Checkbox\\Ejemplo-ComboBox-Checkbox\\MainWindow.xaml",
+              "RelativeToolTip": "Ejemplo-ComboBox-Checkbox\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-17T10:17:01.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\annaa\\OneDrive\\Escritorio\\DAM2\\Desarrollo de interfaces\\Ejemplos UD3\\Ejemplo-ComboBox-Checkbox\\Ejemplo-ComboBox-Checkbox\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Ejemplo-ComboBox-Checkbox\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\annaa\\OneDrive\\Escritorio\\DAM2\\Desarrollo de interfaces\\Ejemplos UD3\\Ejemplo-ComboBox-Checkbox\\Ejemplo-ComboBox-Checkbox\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Ejemplo-ComboBox-Checkbox\\MainWindow.xaml.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T10:16:59.557Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

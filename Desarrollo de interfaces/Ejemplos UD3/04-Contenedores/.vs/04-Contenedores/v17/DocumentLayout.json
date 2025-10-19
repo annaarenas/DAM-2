@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\annaa\\OneDrive\\Escritorio\\DAM2\\Desarrollo de interfaces\\Ejemplos\\04-Contenedores\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EDB456-D7EA-4C7D-AC26-DE2AE262DF06}|04-Contenedores\\04-Contenedores.csproj|c:\\users\\annaa\\onedrive\\escritorio\\dam2\\desarrollo de interfaces\\ejemplos\\04-contenedores\\04-contenedores\\wstack.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B6EDB456-D7EA-4C7D-AC26-DE2AE262DF06}|04-Contenedores\\04-Contenedores.csproj|solutionrelative:04-contenedores\\wstack.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EDB456-D7EA-4C7D-AC26-DE2AE262DF06}|04-Contenedores\\04-Contenedores.csproj|c:\\users\\annaa\\onedrive\\escritorio\\dam2\\desarrollo de interfaces\\ejemplos\\04-contenedores\\04-contenedores\\wcanvas.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B6EDB456-D7EA-4C7D-AC26-DE2AE262DF06}|04-Contenedores\\04-Contenedores.csproj|solutionrelative:04-contenedores\\wcanvas.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EDB456-D7EA-4C7D-AC26-DE2AE262DF06}|04-Contenedores\\04-Contenedores.csproj|c:\\users\\annaa\\onedrive\\escritorio\\dam2\\desarrollo de interfaces\\ejemplos\\04-contenedores\\04-contenedores\\wgrid.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B6EDB456-D7EA-4C7D-AC26-DE2AE262DF06}|04-Contenedores\\04-Contenedores.csproj|solutionrelative:04-contenedores\\wgrid.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EDB456-D7EA-4C7D-AC26-DE2AE262DF06}|04-Contenedores\\04-Contenedores.csproj|c:\\users\\annaa\\onedrive\\escritorio\\dam2\\desarrollo de interfaces\\ejemplos\\04-contenedores\\04-contenedores\\wvariable.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B6EDB456-D7EA-4C7D-AC26-DE2AE262DF06}|04-Contenedores\\04-Contenedores.csproj|solutionrelative:04-contenedores\\wvariable.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EDB456-D7EA-4C7D-AC26-DE2AE262DF06}|04-Contenedores\\04-Contenedores.csproj|c:\\users\\annaa\\onedrive\\escritorio\\dam2\\desarrollo de interfaces\\ejemplos\\04-contenedores\\04-contenedores\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B6EDB456-D7EA-4C7D-AC26-DE2AE262DF06}|04-Contenedores\\04-Contenedores.csproj|solutionrelative:04-contenedores\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EDB456-D7EA-4C7D-AC26-DE2AE262DF06}|04-Contenedores\\04-Contenedores.csproj|c:\\users\\annaa\\onedrive\\escritorio\\dam2\\desarrollo de interfaces\\ejemplos\\04-contenedores\\04-contenedores\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B6EDB456-D7EA-4C7D-AC26-DE2AE262DF06}|04-Contenedores\\04-Contenedores.csproj|solutionrelative:04-contenedores\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EDB456-D7EA-4C7D-AC26-DE2AE262DF06}|04-Contenedores\\04-Contenedores.csproj|c:\\users\\annaa\\onedrive\\escritorio\\dam2\\desarrollo de interfaces\\ejemplos\\04-contenedores\\04-contenedores\\wborder.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B6EDB456-D7EA-4C7D-AC26-DE2AE262DF06}|04-Contenedores\\04-Contenedores.csproj|solutionrelative:04-contenedores\\wborder.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EDB456-D7EA-4C7D-AC26-DE2AE262DF06}|04-Contenedores\\04-Contenedores.csproj|c:\\users\\annaa\\onedrive\\escritorio\\dam2\\desarrollo de interfaces\\ejemplos\\04-contenedores\\04-contenedores\\wborder.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6EDB456-D7EA-4C7D-AC26-DE2AE262DF06}|04-Contenedores\\04-Contenedores.csproj|solutionrelative:04-contenedores\\wborder.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\annaa\\OneDrive\\Escritorio\\DAM2\\Desarrollo de interfaces\\Ejemplos\\04-Contenedores\\04-Contenedores\\App.xaml",
+              "RelativeDocumentMoniker": "04-Contenedores\\App.xaml",
+              "ToolTip": "C:\\Users\\annaa\\OneDrive\\Escritorio\\DAM2\\Desarrollo de interfaces\\Ejemplos\\04-Contenedores\\04-Contenedores\\App.xaml",
+              "RelativeToolTip": "04-Contenedores\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-17T13:34:14.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WVariable.xaml",
+              "DocumentMoniker": "C:\\Users\\annaa\\OneDrive\\Escritorio\\DAM2\\Desarrollo de interfaces\\Ejemplos\\04-Contenedores\\04-Contenedores\\WVariable.xaml",
+              "RelativeDocumentMoniker": "04-Contenedores\\WVariable.xaml",
+              "ToolTip": "C:\\Users\\annaa\\OneDrive\\Escritorio\\DAM2\\Desarrollo de interfaces\\Ejemplos\\04-Contenedores\\04-Contenedores\\WVariable.xaml",
+              "RelativeToolTip": "04-Contenedores\\WVariable.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-17T13:34:08.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WStack.xaml",
+              "DocumentMoniker": "C:\\Users\\annaa\\OneDrive\\Escritorio\\DAM2\\Desarrollo de interfaces\\Ejemplos\\04-Contenedores\\04-Contenedores\\WStack.xaml",
+              "RelativeDocumentMoniker": "04-Contenedores\\WStack.xaml",
+              "ToolTip": "C:\\Users\\annaa\\OneDrive\\Escritorio\\DAM2\\Desarrollo de interfaces\\Ejemplos\\04-Contenedores\\04-Contenedores\\WStack.xaml",
+              "RelativeToolTip": "04-Contenedores\\WStack.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-17T13:34:06.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WGrid.xaml",
+              "DocumentMoniker": "C:\\Users\\annaa\\OneDrive\\Escritorio\\DAM2\\Desarrollo de interfaces\\Ejemplos\\04-Contenedores\\04-Contenedores\\WGrid.xaml",
+              "RelativeDocumentMoniker": "04-Contenedores\\WGrid.xaml",
+              "ToolTip": "C:\\Users\\annaa\\OneDrive\\Escritorio\\DAM2\\Desarrollo de interfaces\\Ejemplos\\04-Contenedores\\04-Contenedores\\WGrid.xaml",
+              "RelativeToolTip": "04-Contenedores\\WGrid.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-17T13:34:02.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WCanvas.xaml",
+              "DocumentMoniker": "C:\\Users\\annaa\\OneDrive\\Escritorio\\DAM2\\Desarrollo de interfaces\\Ejemplos\\04-Contenedores\\04-Contenedores\\WCanvas.xaml",
+              "RelativeDocumentMoniker": "04-Contenedores\\WCanvas.xaml",
+              "ToolTip": "C:\\Users\\annaa\\OneDrive\\Escritorio\\DAM2\\Desarrollo de interfaces\\Ejemplos\\04-Contenedores\\04-Contenedores\\WCanvas.xaml",
+              "RelativeToolTip": "04-Contenedores\\WCanvas.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-17T13:34:00.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WBorder.xaml",
+              "DocumentMoniker": "C:\\Users\\annaa\\OneDrive\\Escritorio\\DAM2\\Desarrollo de interfaces\\Ejemplos\\04-Contenedores\\04-Contenedores\\WBorder.xaml",
+              "RelativeDocumentMoniker": "04-Contenedores\\WBorder.xaml",
+              "ToolTip": "C:\\Users\\annaa\\OneDrive\\Escritorio\\DAM2\\Desarrollo de interfaces\\Ejemplos\\04-Contenedores\\04-Contenedores\\WBorder.xaml",
+              "RelativeToolTip": "04-Contenedores\\WBorder.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-17T13:33:55.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WBorder.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\annaa\\OneDrive\\Escritorio\\DAM2\\Desarrollo de interfaces\\Ejemplos\\04-Contenedores\\04-Contenedores\\WBorder.xaml.cs",
+              "RelativeDocumentMoniker": "04-Contenedores\\WBorder.xaml.cs",
+              "ToolTip": "C:\\Users\\annaa\\OneDrive\\Escritorio\\DAM2\\Desarrollo de interfaces\\Ejemplos\\04-Contenedores\\04-Contenedores\\WBorder.xaml.cs",
+              "RelativeToolTip": "04-Contenedores\\WBorder.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T13:33:49.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\annaa\\OneDrive\\Escritorio\\DAM2\\Desarrollo de interfaces\\Ejemplos\\04-Contenedores\\04-Contenedores\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "04-Contenedores\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\annaa\\OneDrive\\Escritorio\\DAM2\\Desarrollo de interfaces\\Ejemplos\\04-Contenedores\\04-Contenedores\\MainWindow.xaml",
+              "RelativeToolTip": "04-Contenedores\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-17T13:29:29.811Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+C:\Users\annaa\OneDrive\Escritorio\DAM2\Desarrollo de interfaces\Arenas_Anna_ GestionTareas03.01\bin\Debug\net8.0-windows\Arenas_Anna_ GestionTareas03.01.exe
+C:\Users\annaa\OneDrive\Escritorio\DAM2\Desarrollo de interfaces\Arenas_Anna_ GestionTareas03.01\bin\Debug\net8.0-windows\Arenas_Anna_ GestionTareas03.01.deps.json
+C:\Users\annaa\OneDrive\Escritorio\DAM2\Desarrollo de interfaces\Arenas_Anna_ GestionTareas03.01\bin\Debug\net8.0-windows\Arenas_Anna_ GestionTareas03.01.runtimeconfig.json
+C:\Users\annaa\OneDrive\Escritorio\DAM2\Desarrollo de interfaces\Arenas_Anna_ GestionTareas03.01\bin\Debug\net8.0-windows\Arenas_Anna_ GestionTareas03.01.dll
+C:\Users\annaa\OneDrive\Escritorio\DAM2\Desarrollo de interfaces\Arenas_Anna_ GestionTareas03.01\bin\Debug\net8.0-windows\Arenas_Anna_ GestionTareas03.01.pdb
+C:\Users\annaa\OneDrive\Escritorio\DAM2\Desarrollo de interfaces\Arenas_Anna_ GestionTareas03.01\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\annaa\OneDrive\Escritorio\DAM2\Desarrollo de interfaces\Arenas_Anna_ GestionTareas03.01\obj\Debug\net8.0-windows\View\LoginView.g.cs
+C:\Users\annaa\OneDrive\Escritorio\DAM2\Desarrollo de interfaces\Arenas_Anna_ GestionTareas03.01\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\annaa\OneDrive\Escritorio\DAM2\Desarrollo de interfaces\Arenas_Anna_ GestionTareas03.01\obj\Debug\net8.0-windows\Arenas_Anna_ GestionTareas03.01_MarkupCompile.cache
+C:\Users\annaa\OneDrive\Escritorio\DAM2\Desarrollo de interfaces\Arenas_Anna_ GestionTareas03.01\obj\Debug\net8.0-windows\Arenas_Anna_ GestionTareas03.01_MarkupCompile.lref
+C:\Users\annaa\OneDrive\Escritorio\DAM2\Desarrollo de interfaces\Arenas_Anna_ GestionTareas03.01\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\annaa\OneDrive\Escritorio\DAM2\Desarrollo de interfaces\Arenas_Anna_ GestionTareas03.01\obj\Debug\net8.0-windows\View\LoginView.baml
+C:\Users\annaa\OneDrive\Escritorio\DAM2\Desarrollo de interfaces\Arenas_Anna_ GestionTareas03.01\obj\Debug\net8.0-windows\Arenas_Anna_ GestionTareas03.01.g.resources
+C:\Users\annaa\OneDrive\Escritorio\DAM2\Desarrollo de interfaces\Arenas_Anna_ GestionTareas03.01\obj\Debug\net8.0-windows\Arenas_Anna_ GestionTareas03.01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annaa\OneDrive\Escritorio\DAM2\Desarrollo de interfaces\Arenas_Anna_ GestionTareas03.01\obj\Debug\net8.0-windows\Arenas_Anna_ GestionTareas03.01.AssemblyInfoInputs.cache
+C:\Users\annaa\OneDrive\Escritorio\DAM2\Desarrollo de interfaces\Arenas_Anna_ GestionTareas03.01\obj\Debug\net8.0-windows\Arenas_Anna_ GestionTareas03.01.AssemblyInfo.cs
+C:\Users\annaa\OneDrive\Escritorio\DAM2\Desarrollo de interfaces\Arenas_Anna_ GestionTareas03.01\obj\Debug\net8.0-windows\Arenas_Anna_ GestionTareas03.01.csproj.CoreCompileInputs.cache
+C:\Users\annaa\OneDrive\Escritorio\DAM2\Desarrollo de interfaces\Arenas_Anna_ GestionTareas03.01\obj\Debug\net8.0-windows\Arenas_Anna_ GestionTareas03.01.sourcelink.json
+C:\Users\annaa\OneDrive\Escritorio\DAM2\Desarrollo de interfaces\Arenas_Anna_ GestionTareas03.01\obj\Debug\net8.0-windows\Arenas_Anna_ GestionTareas03.01.dll
+C:\Users\annaa\OneDrive\Escritorio\DAM2\Desarrollo de interfaces\Arenas_Anna_ GestionTareas03.01\obj\Debug\net8.0-windows\refint\Arenas_Anna_ GestionTareas03.01.dll
+C:\Users\annaa\OneDrive\Escritorio\DAM2\Desarrollo de interfaces\Arenas_Anna_ GestionTareas03.01\obj\Debug\net8.0-windows\Arenas_Anna_ GestionTareas03.01.pdb
+C:\Users\annaa\OneDrive\Escritorio\DAM2\Desarrollo de interfaces\Arenas_Anna_ GestionTareas03.01\obj\Debug\net8.0-windows\Arenas_Anna_ GestionTareas03.01.genruntimeconfig.cache
+C:\Users\annaa\OneDrive\Escritorio\DAM2\Desarrollo de interfaces\Arenas_Anna_ GestionTareas03.01\obj\Debug\net8.0-windows\ref\Arenas_Anna_ GestionTareas03.01.dll

@@ -1,0 +1,41 @@
+C:\Users\Usuario\source\repos\Ejemplo-ComboBox-Checkbox\Ejemplo-ComboBox-Checkbox\bin\Debug\net8.0-windows\Ejemplo-ComboBox-Checkbox.exe
+C:\Users\Usuario\source\repos\Ejemplo-ComboBox-Checkbox\Ejemplo-ComboBox-Checkbox\bin\Debug\net8.0-windows\Ejemplo-ComboBox-Checkbox.deps.json
+C:\Users\Usuario\source\repos\Ejemplo-ComboBox-Checkbox\Ejemplo-ComboBox-Checkbox\bin\Debug\net8.0-windows\Ejemplo-ComboBox-Checkbox.runtimeconfig.json
+C:\Users\Usuario\source\repos\Ejemplo-ComboBox-Checkbox\Ejemplo-ComboBox-Checkbox\bin\Debug\net8.0-windows\Ejemplo-ComboBox-Checkbox.dll
+C:\Users\Usuario\source\repos\Ejemplo-ComboBox-Checkbox\Ejemplo-ComboBox-Checkbox\bin\Debug\net8.0-windows\Ejemplo-ComboBox-Checkbox.pdb
+C:\Users\Usuario\source\repos\Ejemplo-ComboBox-Checkbox\Ejemplo-ComboBox-Checkbox\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Usuario\source\repos\Ejemplo-ComboBox-Checkbox\Ejemplo-ComboBox-Checkbox\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Usuario\source\repos\Ejemplo-ComboBox-Checkbox\Ejemplo-ComboBox-Checkbox\obj\Debug\net8.0-windows\Ejemplo-ComboBox-Checkbox_MarkupCompile.cache
+C:\Users\Usuario\source\repos\Ejemplo-ComboBox-Checkbox\Ejemplo-ComboBox-Checkbox\obj\Debug\net8.0-windows\Ejemplo-ComboBox-Checkbox_MarkupCompile.lref
+C:\Users\Usuario\source\repos\Ejemplo-ComboBox-Checkbox\Ejemplo-ComboBox-Checkbox\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Usuario\source\repos\Ejemplo-ComboBox-Checkbox\Ejemplo-ComboBox-Checkbox\obj\Debug\net8.0-windows\Ejemplo-ComboBox-Checkbox.g.resources
+C:\Users\Usuario\source\repos\Ejemplo-ComboBox-Checkbox\Ejemplo-ComboBox-Checkbox\obj\Debug\net8.0-windows\Ejemplo-ComboBox-Checkbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Ejemplo-ComboBox-Checkbox\Ejemplo-ComboBox-Checkbox\obj\Debug\net8.0-windows\Ejemplo-ComboBox-Checkbox.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Ejemplo-ComboBox-Checkbox\Ejemplo-ComboBox-Checkbox\obj\Debug\net8.0-windows\Ejemplo-ComboBox-Checkbox.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Ejemplo-ComboBox-Checkbox\Ejemplo-ComboBox-Checkbox\obj\Debug\net8.0-windows\Ejemplo-ComboBox-Checkbox.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Ejemplo-ComboBox-Checkbox\Ejemplo-ComboBox-Checkbox\obj\Debug\net8.0-windows\Ejemplo-ComboBox-Checkbox.dll
+C:\Users\Usuario\source\repos\Ejemplo-ComboBox-Checkbox\Ejemplo-ComboBox-Checkbox\obj\Debug\net8.0-windows\refint\Ejemplo-ComboBox-Checkbox.dll
+C:\Users\Usuario\source\repos\Ejemplo-ComboBox-Checkbox\Ejemplo-ComboBox-Checkbox\obj\Debug\net8.0-windows\Ejemplo-ComboBox-Checkbox.pdb
+C:\Users\Usuario\source\repos\Ejemplo-ComboBox-Checkbox\Ejemplo-ComboBox-Checkbox\obj\Debug\net8.0-windows\Ejemplo-ComboBox-Checkbox.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\Ejemplo-ComboBox-Checkbox\Ejemplo-ComboBox-Checkbox\obj\Debug\net8.0-windows\ref\Ejemplo-ComboBox-Checkbox.dll
+C:\Users\annaa\OneDrive\Escritorio\DAM2\Desarrollo de interfaces\Ejemplos UD3\Ejemplo-ComboBox-Checkbox\Ejemplo-ComboBox-Checkbox\bin\Debug\net8.0-windows\Ejemplo-ComboBox-Checkbox.exe
+C:\Users\annaa\OneDrive\Escritorio\DAM2\Desarrollo de interfaces\Ejemplos UD3\Ejemplo-ComboBox-Checkbox\Ejemplo-ComboBox-Checkbox\bin\Debug\net8.0-windows\Ejemplo-ComboBox-Checkbox.deps.json
+C:\Users\annaa\OneDrive\Escritorio\DAM2\Desarrollo de interfaces\Ejemplos UD3\Ejemplo-ComboBox-Checkbox\Ejemplo-ComboBox-Checkbox\bin\Debug\net8.0-windows\Ejemplo-ComboBox-Checkbox.runtimeconfig.json
+C:\Users\annaa\OneDrive\Escritorio\DAM2\Desarrollo de interfaces\Ejemplos UD3\Ejemplo-ComboBox-Checkbox\Ejemplo-ComboBox-Checkbox\bin\Debug\net8.0-windows\Ejemplo-ComboBox-Checkbox.dll
+C:\Users\annaa\OneDrive\Escritorio\DAM2\Desarrollo de interfaces\Ejemplos UD3\Ejemplo-ComboBox-Checkbox\Ejemplo-ComboBox-Checkbox\bin\Debug\net8.0-windows\Ejemplo-ComboBox-Checkbox.pdb
+C:\Users\annaa\OneDrive\Escritorio\DAM2\Desarrollo de interfaces\Ejemplos UD3\Ejemplo-ComboBox-Checkbox\Ejemplo-ComboBox-Checkbox\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\annaa\OneDrive\Escritorio\DAM2\Desarrollo de interfaces\Ejemplos UD3\Ejemplo-ComboBox-Checkbox\Ejemplo-ComboBox-Checkbox\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\annaa\OneDrive\Escritorio\DAM2\Desarrollo de interfaces\Ejemplos UD3\Ejemplo-ComboBox-Checkbox\Ejemplo-ComboBox-Checkbox\obj\Debug\net8.0-windows\Ejemplo-ComboBox-Checkbox_MarkupCompile.cache
+C:\Users\annaa\OneDrive\Escritorio\DAM2\Desarrollo de interfaces\Ejemplos UD3\Ejemplo-ComboBox-Checkbox\Ejemplo-ComboBox-Checkbox\obj\Debug\net8.0-windows\Ejemplo-ComboBox-Checkbox_MarkupCompile.lref
+C:\Users\annaa\OneDrive\Escritorio\DAM2\Desarrollo de interfaces\Ejemplos UD3\Ejemplo-ComboBox-Checkbox\Ejemplo-ComboBox-Checkbox\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\annaa\OneDrive\Escritorio\DAM2\Desarrollo de interfaces\Ejemplos UD3\Ejemplo-ComboBox-Checkbox\Ejemplo-ComboBox-Checkbox\obj\Debug\net8.0-windows\Ejemplo-ComboBox-Checkbox.g.resources
+C:\Users\annaa\OneDrive\Escritorio\DAM2\Desarrollo de interfaces\Ejemplos UD3\Ejemplo-ComboBox-Checkbox\Ejemplo-ComboBox-Checkbox\obj\Debug\net8.0-windows\Ejemplo-ComboBox-Checkbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annaa\OneDrive\Escritorio\DAM2\Desarrollo de interfaces\Ejemplos UD3\Ejemplo-ComboBox-Checkbox\Ejemplo-ComboBox-Checkbox\obj\Debug\net8.0-windows\Ejemplo-ComboBox-Checkbox.AssemblyInfoInputs.cache
+C:\Users\annaa\OneDrive\Escritorio\DAM2\Desarrollo de interfaces\Ejemplos UD3\Ejemplo-ComboBox-Checkbox\Ejemplo-ComboBox-Checkbox\obj\Debug\net8.0-windows\Ejemplo-ComboBox-Checkbox.AssemblyInfo.cs
+C:\Users\annaa\OneDrive\Escritorio\DAM2\Desarrollo de interfaces\Ejemplos UD3\Ejemplo-ComboBox-Checkbox\Ejemplo-ComboBox-Checkbox\obj\Debug\net8.0-windows\Ejemplo-ComboBox-Checkbox.csproj.CoreCompileInputs.cache
+C:\Users\annaa\OneDrive\Escritorio\DAM2\Desarrollo de interfaces\Ejemplos UD3\Ejemplo-ComboBox-Checkbox\Ejemplo-ComboBox-Checkbox\obj\Debug\net8.0-windows\Ejemplo-ComboBox-Checkbox.sourcelink.json
+C:\Users\annaa\OneDrive\Escritorio\DAM2\Desarrollo de interfaces\Ejemplos UD3\Ejemplo-ComboBox-Checkbox\Ejemplo-ComboBox-Checkbox\obj\Debug\net8.0-windows\Ejemplo-ComboBox-Checkbox.dll
+C:\Users\annaa\OneDrive\Escritorio\DAM2\Desarrollo de interfaces\Ejemplos UD3\Ejemplo-ComboBox-Checkbox\Ejemplo-ComboBox-Checkbox\obj\Debug\net8.0-windows\refint\Ejemplo-ComboBox-Checkbox.dll
+C:\Users\annaa\OneDrive\Escritorio\DAM2\Desarrollo de interfaces\Ejemplos UD3\Ejemplo-ComboBox-Checkbox\Ejemplo-ComboBox-Checkbox\obj\Debug\net8.0-windows\Ejemplo-ComboBox-Checkbox.pdb
+C:\Users\annaa\OneDrive\Escritorio\DAM2\Desarrollo de interfaces\Ejemplos UD3\Ejemplo-ComboBox-Checkbox\Ejemplo-ComboBox-Checkbox\obj\Debug\net8.0-windows\Ejemplo-ComboBox-Checkbox.genruntimeconfig.cache
+C:\Users\annaa\OneDrive\Escritorio\DAM2\Desarrollo de interfaces\Ejemplos UD3\Ejemplo-ComboBox-Checkbox\Ejemplo-ComboBox-Checkbox\obj\Debug\net8.0-windows\ref\Ejemplo-ComboBox-Checkbox.dll
